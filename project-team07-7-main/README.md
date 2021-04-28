@@ -1,11 +1,3 @@
-# project
-
-Project proposal due Mon, Mar 22, 11:59 PM.
-
-Peer feedback due Fri, Apr 16 11:59 PM.
-
-Report and repository due Tue, Apr 27 11:59 PM.
-
 # Code Book
 
 #### Relevant Variables:
@@ -51,6 +43,3 @@ tournament
 
 Total Win Percentages - final win percentage after regualar season, 
 in-conference play, and tournament
-
-*The PAC-10 and PAC-12 Conferences as listed in the Tournament Data are indeed
-the same conferences and should be treated as the same value-wise.
